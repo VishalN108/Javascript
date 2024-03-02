@@ -1,0 +1,12 @@
+/* styles.css */
+#digital-clock {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    text-align: center;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    color: white;
+    background-color: #40679E;
+    border-radius: 15px;
+}
